@@ -1,4 +1,4 @@
-ubscription Management System API
+Subscription Management System API
 
 A Node.js + Express.js + MongoDB API to manage user subscriptions. Follow the JavaScript Mastery tutorial
  to build it step by step.
@@ -12,10 +12,15 @@ A Node.js + Express.js + MongoDB API to manage user subscriptions. Follow the Ja
 🔋 Features
 
 --User authentication & CRUD
+
 --Subscription management
+
 --Database modeling & relationships
+
 Global error handling & logging
+
 --Automated email reminders
+
 --Advanced security with rate limiting
 
 🚀 Quick Start
