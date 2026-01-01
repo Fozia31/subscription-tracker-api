@@ -12,15 +12,10 @@ A Node.js + Express.js + MongoDB API to manage user subscriptions. Follow the Ja
 🔋 Features
 
 --User authentication & CRUD
-
 --Subscription management
-
 --Database modeling & relationships
-
-Global error handling & logging
-
+--Global error handling & logging
 --Automated email reminders
-
 --Advanced security with rate limiting
 
 🚀 Quick Start
